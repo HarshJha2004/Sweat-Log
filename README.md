@@ -75,7 +75,7 @@ I built SweatLog to simplify training for beginners and intermediates who want r
 Clone the repo and run locally:
 
 ```bash
-git clone https://github.com/the-ajay-panigrahi/sweatlog
+git clone https://github.com/HarshJha2004/sweatlog
 cd sweatlog
 npm install
 npm run dev
